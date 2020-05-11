@@ -115,6 +115,10 @@ Provide an account of individual members and their efforts/contributions to the 
 
 - Rakesh: Data, Code, Results, and parts of Discussion section
 
+- Anurag: Discussion, parts of Cultural Analysis, Confounding factors argument
+
+-Mizuki: Discussion, Historical context, parts of Cultural Analysis
+
 
 ## Technical Notes and Dependencies
 
